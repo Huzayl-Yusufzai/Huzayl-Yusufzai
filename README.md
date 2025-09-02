@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Huzayl-Yusufzai/Huzayl-Yusufzai/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Huzayl-Yusufzai/Huzayl-Yusufzai/output/dist/snake.svg" alt="Snake animation" />
 
 ###
